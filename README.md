@@ -5,3 +5,4 @@ This dashboard has a dataset from IBM Cognos sample folder named:- Great Outdoor
 This is the PDF version of the dashboard
 If you want to access the dashboard in real time go with this link:- https://ap2.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FMy%2Bfirst%2BDashboard%2B-%2BGreat%2Boutdoor%2Bsales&action=view&mode=dashboard&subView=model000001824a935741_00000000
 You can find all the meaningful insights inside the Dashboard itself, I tried to mentioned few of them.
+In the page 3 "Line Chart for Quarterly Revenue" it can predict the future of the sales which will be quite useful for managers to predict the demand of the sales.
